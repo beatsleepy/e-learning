@@ -2,7 +2,6 @@
 
 This project is a mobile app built using React Native that allows users to create and access courses, create notes, and store files. The app utilizes an API from another repository.
 
-(https://github.com/beatsleepy/e-learning/assets/100933608/ea6cf6dd-ed6e-4368-b4c3-1befa3d6bb82)
 
 
 # Features
