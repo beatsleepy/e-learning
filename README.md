@@ -1,9 +1,8 @@
-# ElerninkMobile
-React Native E-learning Mobile App using API from Another Repository (https://github.com/olimpialewinska/elernink)
+# BeatSleepy
 
 This project is a mobile app built using React Native that allows users to create and access courses, create notes, and store files. The app utilizes an API from another repository.
 
-![Nagranie z ekranu 2023-05-26 o 23 30 09](https://github.com/olimpialewinska/ElerninkMobile/assets/100933608/ea6cf6dd-ed6e-4368-b4c3-1befa3d6bb82)
+(https://github.com/beatsleepy/e-learning/assets/100933608/ea6cf6dd-ed6e-4368-b4c3-1befa3d6bb82)
 
 
 # Features
